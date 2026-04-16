@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/casey-ai-avatar.png" alt="AI and technology themed profile image for Casey Rivera" width="220" />
-  <h1>Casey Rivera</h1>
+  <h1>Cashew Nuts AI</h1>
   <p><strong>AI and technology enthusiast</strong> exploring intelligent systems, creative tools, and practical innovation that improves human life.</p>
   <p>I love experimenting with ideas, building useful technology, and learning how AI, automation, and thoughtful product design can help people do more meaningful work.</p>
 </div>
